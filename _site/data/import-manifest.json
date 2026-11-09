@@ -1,0 +1,100 @@
+{
+  "importedOn": "2026-11-09",
+  "pageNumbering": "PDF file pages, 1-based; printed pages noted in papers.json where applicable",
+  "sources": [
+    {
+      "file": "references/A_Framework_for_Robust_Network_Traffic_Prediction_Using_Multi-Scale_Adversarial_Training_and_an_Online_Adaptive_Mechanism.pdf",
+      "sha256": "3948f71a0fcf359c1275f4bed7cfc84c43334a081a54f0d27970412310ec073f",
+      "pages": 6,
+      "pagesRead": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "slug": "a-framework-for-robust-network-traffic-prediction-using-multi-scale-adversarial-training-and-an-online-adaptive-mechanism",
+      "action": "added",
+      "status": "draft",
+      "review": "Full-page text read; rendered pages reviewed; key formulas and result tables visually checked. No experimental reproduction."
+    },
+    {
+      "file": "references/A_Simple_Yet_Robust_Nonlinear_Function_for_Low-Light_Image_Enhancement_Task.pdf",
+      "sha256": "5733db8740bcbf094f389acce1153ec33d91c37a8fa0492df3ae2e78fbe2dffe",
+      "pages": 5,
+      "pagesRead": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "slug": "a-simple-yet-robust-nonlinear-function-for-low-light-image-enhancement-task",
+      "action": "added",
+      "status": "draft",
+      "review": "Full-page text read; rendered pages reviewed; key formulas and result tables visually checked. No experimental reproduction."
+    },
+    {
+      "file": "references/LARSI-TPE-XGB_Short-Term_Load_Forecasting_by_Load-Adaptive_Relative_Strength_Index_and_Fusion_of_Tree-Structured_Parzen_Estimator_and_XGBoost.pdf",
+      "sha256": "cf605e825203cbe4b5873680de2e87e15ee5caa4e4dfd168f2fabc1329c3451f",
+      "pages": 13,
+      "pagesRead": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "slug": "larsi-tpe-xgb-short-term-load-forecasting-by-load-adaptive-relative-strength-index-and-fusion-of-tree-structured-parzen-estimator-and-xgboost",
+      "action": "added",
+      "status": "draft",
+      "review": "Full-page text read; rendered pages reviewed; key formulas and result tables visually checked. No experimental reproduction."
+    },
+    {
+      "file": "references/Two-Phase_Positioning_System_Based_on_the_Fusion_of_Wi-Fi_Signal_Strength_and_Pose_Estimation.pdf",
+      "sha256": "4ef73e2fac1d86e7a8b124e9f9c703fd6ec4505dd9c151f527f19a33523196ce",
+      "pages": 8,
+      "pagesRead": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "slug": "two-phase-positioning-system-based-on-the-fusion-of-wi-fi-signal-strength-and-pose-estimation",
+      "action": "added",
+      "status": "draft",
+      "review": "Full-page text read; rendered pages reviewed; key formulas and result tables visually checked. No experimental reproduction."
+    },
+    {
+      "file": "references/Enhancing_Internet_Traffic_Prediction_Accuracy_Using_an_Ensemble_Approach_with_a_Novel_Weight_Integration_Method_and_Temporal_Convolutional_Networks.pdf",
+      "sha256": "8e6d42ce02c8ce79f9410b9c53c36c1bbda0649c439b628c4e959e6631880291",
+      "pages": 6,
+      "pagesRead": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "slug": "enhancing-internet-traffic-prediction-accuracy-using-an-ensemble-approach-with-a-novel-weight-integration-method-and-temporal-convolutional-networks",
+      "action": "added",
+      "status": "draft",
+      "importedOn": "2026-11-09",
+      "review": "Read all six PDF pages; visually checked Figures 1–3, Tables I–IV and Equations (1)–(5). Objective and percentage-baseline ambiguities retained; no experiment reproduction."
+    }
+  ]
+}
